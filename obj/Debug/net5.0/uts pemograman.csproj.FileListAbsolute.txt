@@ -1,0 +1,16 @@
+C:\uts pemograman\obj\Debug\net5.0\uts pemograman.csproj.AssemblyReference.cache
+C:\uts pemograman\obj\Debug\net5.0\uts pemograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\uts pemograman\obj\Debug\net5.0\uts pemograman.AssemblyInfoInputs.cache
+C:\uts pemograman\obj\Debug\net5.0\uts pemograman.AssemblyInfo.cs
+C:\uts pemograman\obj\Debug\net5.0\uts pemograman.csproj.CoreCompileInputs.cache
+C:\uts pemograman\bin\Debug\net5.0\uts pemograman.exe
+C:\uts pemograman\bin\Debug\net5.0\uts pemograman.deps.json
+C:\uts pemograman\bin\Debug\net5.0\uts pemograman.runtimeconfig.json
+C:\uts pemograman\bin\Debug\net5.0\uts pemograman.runtimeconfig.dev.json
+C:\uts pemograman\bin\Debug\net5.0\uts pemograman.dll
+C:\uts pemograman\bin\Debug\net5.0\ref\uts pemograman.dll
+C:\uts pemograman\bin\Debug\net5.0\uts pemograman.pdb
+C:\uts pemograman\obj\Debug\net5.0\uts pemograman.dll
+C:\uts pemograman\obj\Debug\net5.0\ref\uts pemograman.dll
+C:\uts pemograman\obj\Debug\net5.0\uts pemograman.pdb
+C:\uts pemograman\obj\Debug\net5.0\uts pemograman.genruntimeconfig.cache
